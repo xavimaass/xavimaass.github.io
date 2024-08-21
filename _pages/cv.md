@@ -49,12 +49,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science, Machine Learning, Deep Learning and Artificial Intelligence in general.
+* Mathematical Abstraction and Modeling.
+  * Stochastic Processes, Probability Theory, Mean Field Theory, Optimal Transport Theory, Ergodic Theory, Graph Theory, Statistics, Abstract Algebra, among many others. 
+* Advanced Programming in Python, R, Julia, MATLAB and LaTeX.
+  * Some useful Python packages: ```numpy, matplotlib, pandas, polars, sklearn, xgboost, seaborn, bokeh, pytorch, keras, tensorflow, lightning, jax, sktime, tsai, huggingface, pyod, networkx, igraph, imodels, interpretml, lancedb, langchain, streamlit, chainlit```, among many others.
+* Fluency in English and French, beyond my native language, Spanish.
+* Others: Piano, Tenor Saxophone and member of a Brass Band.
 
 Publications
 ======
