@@ -11,26 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Applied Mathematics, Universidad de Chile, 2024
+* B.S. in Mathematical Engineering, Universidad de Chile, 2024
+* B.S. in Mathematical Engineering, CentraleSupélec, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024 - Present: AI Researcher
+  * ReplAI
+  * Research-oriented position on a quickly-growing chilean startup which develops advanced AI solutions (involving RAG, Knowledge Graphs, XAI, among other techniques).
+  * Supervisor: Daniel Pereda and Ricardo Arancibia.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - Present: Research Assistant
+  * Centro de Modelamiento Matemático (CMM)
+  * Research Assistant position oriented 
+  * Supervisor: Joaquín Fontbona.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2022 - June 2024: Lead Data Scientist 
+  * ISATEC
+  * Leader of a Team dedicated to upgrading ISATEC’s electrocardiogram diagnosis procedure by deploying an integrated AI system (Neural Networks + Explainable Methods).
+  * Supervisor: Claudio Pavanati and Ignacio Calisto.
+
+* February 2022 - March 2022: Portfolio Optimization Project
+  * Generali Centrale Supélec x Generali
+  * ‘Stochastic Modelling of financial risks’ project: Optimization of insurance premiums.
+  * Supervisor: Gaoyue Guo.
+
+* May 2021 - July 2021: MathTeacherforthe`CSSummerSchool' 
+  * BasiCSCentraleSupélec
+  * Organization and instruction of summer tutorships for international students at CS.
+  * Supervisor: Erik Herbin.
+
+* Feb 2021 - May 2021: Data Science Internship
+  * FCFM, Universidad de Chile
+  * Internship researching Topological Data Analysis, and applying Machine Learning and Data Science techniques to analyze the astronomical data of the ALeRCE dataset.
+  * Supervisor: Francisco Forster.
   
 Skills
 ======
