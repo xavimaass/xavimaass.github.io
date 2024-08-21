@@ -37,11 +37,6 @@ Work experience
   * ‘Stochastic Modelling of financial risks’ project: Optimization of insurance premiums.
   * Supervisor: Gaoyue Guo.
 
-* May 2021 - July 2021: MathTeacherforthe`CSSummerSchool' 
-  * BasiCSCentraleSupélec
-  * Organization and instruction of summer tutorships for international students at CS.
-  * Supervisor: Erik Herbin.
-
 * Feb 2021 - May 2021: Data Science Internship
   * FCFM, Universidad de Chile
   * Internship researching Topological Data Analysis, and applying Machine Learning and Data Science techniques to analyze the astronomical data of the ALeRCE dataset.
@@ -54,7 +49,10 @@ Skills
   * Stochastic Processes, Probability Theory, Mean Field Theory, Optimal Transport Theory, Ergodic Theory, Graph Theory, Statistics, Abstract Algebra, among many others. 
 * Advanced Programming in Python, R, Julia, MATLAB and LaTeX.
   * Some useful Python packages: ```numpy, matplotlib, pandas, polars, sklearn, xgboost, seaborn, bokeh, pytorch, keras, tensorflow, lightning, jax, sktime, tsai, huggingface, pyod, networkx, igraph, imodels, interpretml, lancedb, langchain, streamlit, chainlit```, among many others.
-* Fluency in English and French, beyond my native language, Spanish.
+* Languages:
+  * Spanish: Native
+  * English: C1+ (IELTS Band 8)
+  * French: C2 
 * Others: Piano, Tenor Saxophone and member of a Brass Band.
 
 Publications
