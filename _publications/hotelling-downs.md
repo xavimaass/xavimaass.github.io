@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/hotelling-downs
 excerpt: 'This paper is about how elections based on binary preferences can be subject to the strategic behavior of candidates, who can modify their political views to obtain a better outcome in the election.'
 date: 2023-05-29
-venue: 'AAMAS 2023'
+venue: 'AAMAS'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2076.pdf'
 citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
