@@ -24,7 +24,7 @@ Work experience
 
 * May 2024 - Present: Research Assistant
   * Centro de Modelamiento Matemático (CMM)
-  * Research Assistant position oriented 
+  * Research Assistant position focused on: 1) condensating my Master's thesis research (on the symmetries in the mean-field theory of neural networks) into a research paper, 2) getting involved in new research projects (on the use of RKHS in statistical tests for stochastic processes), and 3) supporting the preparation Fondef project on EEG and ECG algorithms for early detection of epilepsy.
   * Supervisor: Joaquín Fontbona.
 
 * July 2022 - June 2024: Lead Data Scientist 
