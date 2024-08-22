@@ -12,8 +12,13 @@ redirect_from:
 Education
 ======
 * M.S. in Applied Mathematics, Universidad de Chile, 2024
-* B.S. in Mathematical Engineering, Universidad de Chile, 2024
-* B.S. in Mathematical Engineering, CentraleSupélec, 2024
+  * Master’s Thesis studying ‘symmetries’ in the Mean Field Limit of overparametrized Neural Networks. This work is currently under review for the Neurips 2024 Conference. I finished my masters with a GPA of 4.33 (7.0/7.0).
+* B.S. in Mathematical Engineering (Double Degree), Universidad de Chile, 2024
+  * Engineering curriculum focused on Applied Mathematics (involving Advanced Math Topics and Programming Skills). I obtained an Outstanding Student Award, and finished my undergraduate with a GPA of 4.33 (7.0/7.0).
+* B.S. in Mathematical Engineering (Double Degree), CentraleSupélec, 2024
+  * Pursued the 'Parcours Recherche' program. My Research Projet ‘AI for collective decision making’ (advised by Vincent Mousseau and Anaëlle Wilczynski) was published at AAMAS 2023 conference. I obtained a distinction from CS Talents for my remarkable academic results.
+* M1 Degree in Pure Mathematics, Institut Orsay (Université Paris-Saclay), 2022.
+  * During my second year in CentraleSupélec, I pursued this M1 degree thanks to a partnership with the Institu Orsay. I finished the program with excellent grades (19.1/20).
 
 Work experience
 ======

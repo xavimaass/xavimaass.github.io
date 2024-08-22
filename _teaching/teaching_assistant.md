@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching_assistant
 venue: "Universidad de Chile, Departmento de Ingeniería Matemática"
-date: 2019-07-01
+date: 2024-07-01
 location: "Santiago, Chile"
 ---
 I was in charge of planning, desinging and teaching the Tutorials for many subjects during my undergraduate years. Namely:
