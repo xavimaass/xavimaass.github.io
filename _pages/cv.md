@@ -56,7 +56,7 @@ Skills
   * Some useful Python packages: ```numpy, matplotlib, pandas, polars, sklearn, xgboost, seaborn, bokeh, pytorch, keras, tensorflow, lightning, jax, sktime, tsai, huggingface, pyod, networkx, igraph, imodels, interpretml, lancedb, langchain, streamlit, chainlit```, among many others.
 * Languages:
   * Spanish: Native
-  * English: C1+ (IELTS Band 8)
+  * English: C2 (IELTS Band 8.5)
   * French: C2 
 * Others: Piano, Tenor Saxophone and member of a Brass Band.
 
