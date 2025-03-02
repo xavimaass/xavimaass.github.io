@@ -1,5 +1,5 @@
 ---
-title: "A Hotelling-Downs Game for Strategic Candidacy with Binary Issues"
+title: "AAMAS 2023 - A Hotelling-Downs Game for Strategic Candidacy with Binary Issues"
 collection: talks
 type: "Conference Talk"
 permalink: /talks/aamas2023

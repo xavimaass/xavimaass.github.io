@@ -1,5 +1,5 @@
 ---
-title: "Probability Seminar"
+title: "Probability Seminar - Symmetries in Overparametrized Neural Networks: A Mean Field View"
 collection: talks
 type: "Talk"
 permalink: /talks/seminario_probabilidades2024

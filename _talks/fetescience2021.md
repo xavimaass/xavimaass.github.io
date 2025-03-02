@@ -1,5 +1,5 @@
 ---
-title: "Les maths et la prise de décision: Fête de la Science 2021"
+title: "Fête de la Science 2021 - Les maths et la prise de décision"
 collection: talks
 type: "Tutorial"
 permalink: /talks/fetescience2021

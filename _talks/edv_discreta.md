@@ -1,5 +1,5 @@
 ---
-title: "A Hotelling-Downs Game for Strategic Candidacy with Binary Issues -- Summer School on Discrete Mathematics"
+title: "Summer School on Discrete Mathematics - A Hotelling-Downs Game for Strategic Candidacy with Binary Issues"
 collection: talks
 type: "Talk"
 permalink: /talks/edv_discreta

@@ -1,5 +1,5 @@
 ---
-title: "Symmetries in Overparametrized Neural Networks: A Mean Field View"
+title: "Neurips 2024 - Symmetries in Overparametrized Neural Networks: A Mean Field View"
 collection: talks
 type: "Conference Talk"
 permalink: /talks/neurips_video
