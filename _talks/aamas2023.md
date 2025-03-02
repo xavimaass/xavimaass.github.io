@@ -4,6 +4,7 @@ collection: talks
 type: "Conference Talk"
 permalink: /talks/aamas2023
 venue: "AAMAS Conference"
+slidesurl: 'http://xavimaass.github.io/files/slids_aamas2023.pdf'
 date: 2023-06-02
 location: "London, United Kingdom"
 ---

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/seminario_probabilidades2024
 venue: "Universidad de Chile, Mathematical Engineering Department"
-slidesurl: 'http://academicpages.github.io/files/slides_proba_seminar.pdf'
+slidesurl: 'http://xavimaass.github.io/files/slides_proba_seminar.pdf'
 date: 2024-11-6
 location: "Santiago, Chile"
 ---

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About Me
-I’m an engineering graduate from Universidad de Chile who took part in a 2 year Double De-
+I am a mathematical engineer from Universidad de Chile who took part in a 2 year Double De-
 gree Program at CentraleSupélec (France). I have recently finished a Master’s Degree in Ap-
 plied Mathematics, and seek to pursue a PhD in topics related to Machine Learning Theory.
 My academic achievements, spanning fascinating applied projects as well as a robust maths

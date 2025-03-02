@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Talk"
 permalink: /talks/neurips_video
 venue: "NeurIPS Conference (online)"
-slidesurl: 'http://academicpages.github.io/files/slides_neurips_video.pdf'
+slidesurl: 'http://xavimaass.github.io/files/slides_neurips_video.pdf'
 date: 2024-12-13
 location: "Vancouver, Canada"
 ---

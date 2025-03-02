@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/edv_discreta
 venue: "Instituto de Sistemas Complejos de Valparaíso (ISCV)"
-slidesurl: 'http://xavimaass.github.io/files/slides_proba_seminar.pdf'
+slidesurl: 'http://xavimaass.github.io/files/slides_edv_discreta.pdf'
 date: 2023-01-11
 location: "Valparaíso, Chile"
 ---

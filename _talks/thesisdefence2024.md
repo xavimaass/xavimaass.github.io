@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/thesisdefence2024
 venue: "Universidad de Chile, Mathematical Engineering Department"
-slidesurl: 'http://academicpages.github.io/files/slides_defensa.pdf'
+slidesurl: 'http://xavimaass.github.io/files/slides_defensa.pdf'
 date: 2024-03-25
 location: "Santiago, Chile"
 ---
