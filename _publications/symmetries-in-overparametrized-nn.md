@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/symmetries-in-overparametrized-nn
 excerpt: 'This paper studies, under the Mean Field lens, how overparametrized neural networks behave when the data they are trained on satisfies simple symmetries and/or when symmetry-leveraging techniques (such as Data Augmentation, Feature Averaging or Equivariant Architectures) are used.'
 date: 2024-12-13
-venue: 'Neurips 2024'
+venue: 'NeurIPS'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/85dbd2fb8b355e4231b51e454c08ec1c-Paper-Conference.pdf' #'https://arxiv.org/abs/2405.19995'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
